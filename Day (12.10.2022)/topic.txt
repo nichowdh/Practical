@@ -1,0 +1,3 @@
+Up-casting
+
+Binding--> Static binding(early),Dynamic binding(late)
