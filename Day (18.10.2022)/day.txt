@@ -1,0 +1,5 @@
+Interface::
+
+1. blueprint of a class
+2. achieve multiple inheritance also 
+3. always represent Is-A relationship
