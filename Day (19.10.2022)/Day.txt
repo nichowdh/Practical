@@ -1,0 +1,32 @@
+Packages::
+
+1. built in (system packages)
+lang-> system, String
+util-> Arraylist,MAp
+Awt-> 
+
+2. User define
+
+Import--> want to access some other package from another package
+
+*Two way we can access---
+1. Using package name .*=import util.*
+2. using packagename.classname=import java.util.Scanner
+
+Access Modifires::
+Provide specified accessibility of method,var,class,cons.
+
+4 type to access modifier
+
+1. private--> only within class,can not be used from outside class...example: facebook..only me
+
+2. Default--> onlt within the pack,cant acces from outside pack.
+
+3. Protected--> Access within/outside a class, within the pack & outside a pack through child class, of there is no child class then not possible to access from outside the pack.
+example:: facebook-- frnds of frnds
+
+4. Public--> Can be access from anywhere.
+
+**Encapsulation**
+
+Using Getter & Setter method to access the private data member from class(Data hiding)
