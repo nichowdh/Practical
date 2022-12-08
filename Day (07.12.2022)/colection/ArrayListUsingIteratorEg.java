@@ -41,7 +41,7 @@ public class ArrayListUsingIteratorEg {
 		System.out.println("traversing using for iterator-backword");
 		ListIterator<String> itr2 = a1.listIterator(a1.size());
 		while (itr2.hasPrevious()) {
-			System.out.println(itr1.previous());
+			System.out.println(itr2.previous());
 		}
 		System.out.println("Traversing using for -each() method");
 		a1.forEach(a -> System.out.println(a));
