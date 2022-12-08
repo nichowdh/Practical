@@ -1,5 +1,5 @@
 import java.io.Console;
-
+// Example of Console program
 class ReadStringTest{    
 
 public static void main(String args[]){    
